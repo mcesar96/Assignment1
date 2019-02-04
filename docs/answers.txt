@@ -38,3 +38,8 @@ j)	A team of 100 developers would benefit more by following the "Dictator
 	amount of people. Conflicts would arise if it were Centralized workflow
 	and it would be difficult to fix all of the errors that could result from
 	the indepenedent work of multiple people.
+
+
+The RoleGame is using both polymorphism and encapsulation.
+Polymorphism because it overrides functions.
+Encapsulation because it hides values inside of a class.
