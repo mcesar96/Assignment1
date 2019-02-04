@@ -1,0 +1,5 @@
+fb17871 refs/heads/development@{0}: commit: Modified Laser.cpp SimpleHammer.cpp
+c6cc4ca refs/heads/development@{1}: commit: Modified Laser.cpp SimpleHammer.cpp WeaponFactory.cpp main.cpp
+c73a965 refs/heads/development@{2}: commit: Added Laser.cpp Laser.h SimpleHammer.cpp SimpleHammer.h makefile
+0282d9e refs/heads/development@{3}: commit: Added CrazyRandomSword.cpp and CrazyRandomSword.h
+8e01ab0 refs/heads/development@{4}: branch: Created from master
